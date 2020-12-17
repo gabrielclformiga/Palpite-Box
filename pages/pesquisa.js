@@ -56,7 +56,7 @@ const Pesquisa = () => {
       <h1 className="text-center font-bold my-4 text-2xl">Críticas e sugestões</h1>
 
       <p className="text-center my-6">
-        O Restaurante Mangata sempre busca por atender melhor seus clientes. <br />
+        O Restaurante X sempre busca por atender melhor seus clientes. <br />
         Por isso, estamos sempre abertos a ouvir a sua opinião.
       </p>
 
